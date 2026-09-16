@@ -1,8 +1,10 @@
 2026/09/16 14:29:15
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: mtwoo@aol.com, mrbillfitness@aol.com
-At: 2026-09-16 14:30:13
-Id: UfC8UUNi
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: susanstewartaz@msn.com, excelda2010@gmail.com
+At: 2026-09-16 14:30:52
+Id: fEoCTsKX
